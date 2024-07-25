@@ -152,6 +152,106 @@ span{
     font-size: 20px;
     margin: 2em 0 3em;
 }
+.skills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12% 8%;
+    gap: 10em;
+    background: rgb(14, 3, 17);
+}
+.skills-img img{
+    position: relative;
+    width: 550px;
+    box-shadow: 0 0 25px aquamarine,
+                0 0 50px aquamarine;
+                border-radius: 50%;
+}
+.skills-content h2{
+    text-align: left;
+    color: azure;
+    font-size: 42px;
+}
+.skills-content p{
+    color: azure;
+    font-size: 20px;
+    margin: 2em 0 3em;
+}
+.education{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12% 8%;
+    gap: 10em;
+    background: black;
+}
+.education-img img{
+    position: relative;
+    width: 550px;
+    box-shadow: 0 0 25px aquamarine,
+                0 0 50px aquamarine;
+                border-radius: 50%;
+}
+.education-content h2{
+    text-align: left;
+    color: azure;
+    font-size: 42px;
+}
+.education-content p{
+    color: azure;
+    font-size: 20px;
+    margin: 2em 0 3em;
+}
+.Projects{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12% 8%;
+    gap: 10em;
+    background: rgb(14, 3, 17);
+}
+.Projects-img img{
+    position: relative;
+    width: 550px;
+    box-shadow: 0 0 25px aquamarine,
+                0 0 50px aquamarine;
+                border-radius: 50%;
+}
+.Projects-content h2{
+    text-align: left;
+    color: azure;
+    font-size: 42px;
+}
+.Projects-content p{
+    color: rgb(209, 209, 209);
+    font-size: 20px;
+    margin: 2em 0 3em;
+}
+.Certifications{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12% 8%;
+    gap: 10em;
+    background: black;
+}
+.Certifications-img img{
+    position: relative;
+    width: 550px;
+    box-shadow: 0 0 25px aquamarine,
+                0 0 50px aquamarine;
+                border-radius: 50%;
+}
+.Certifications-content h2{
+    text-align: left;
+    color: azure;
+    font-size: 42px;
+}
+.Certifications-content p{
+    color: rgb(220, 214, 214);
+    font-size: 20px;
+    margin: 2em 0 3em;
+}
 .contact form h2{
     text-align: center;
     margin-top: 3em;
